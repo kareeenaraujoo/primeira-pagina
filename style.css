@@ -14,7 +14,7 @@ body {
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #2b6cb0; /* define a cor de fundo do cabeçalho */
+    background-color: #b02b65; /* define a cor de fundo do cabeçalho */
     color: white; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
@@ -59,7 +59,7 @@ main {
 
 /* estiliza todos os botões da página */
 button {
-    background-color: #2b6cb0; /* define a cor de fundo do botão */
+    background-color: #ce72a2; /* define a cor de fundo do botão */
     color: white; /* define a cor do texto do botão */
     border: none; /* remove a borda padrão */
     padding: 12px 18px; /* adiciona espaçamento interno no botão */
